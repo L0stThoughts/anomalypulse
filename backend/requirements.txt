@@ -1,0 +1,9 @@
+fastapi
+uvicorn[standard]
+pydantic
+numpy
+scipy
+scikit-learn
+aiosqlite
+websockets
+python-dateutil
